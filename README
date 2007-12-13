@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2093
+
+Usage Example:
+    :let foo = "bar"
+    :let foo = <C-G>
+
+Completable values are numbers, strings, lists and dicts.
+
+Good for changing customization variables.
